@@ -1,0 +1,135 @@
+{
+    "last-checked": {
+        "started": "2022-10-25 19:32:21.210545",
+        "finished": "2022-10-25 19:32:23.230150"
+    },
+    "mealguids": [
+        {
+            "mealGuid": "f866247d-a9d2-48ca-8792-974d3b66be91",
+            "name": "Kasvislounas talon tapaan",
+            "type": 1,
+            "ratingHash": "a0ffdcf8a12029f0a5532a6b0270968def7d1178"
+        },
+        {
+            "mealGuid": "97799571-b100-42d2-a20f-96eb4176bd3a",
+            "name": "Lounas talon tapaan",
+            "type": 1,
+            "ratingHash": "00118117d6c805543fe7c08e434601e041f95bc8"
+        },
+        {
+            "mealGuid": "3e5cb18a-0588-42e0-8085-7d1b0323112e",
+            "name": "Soija-tomaattikastike L M G MU VEG, Peruna, Uunijuurekset, Salaatti",
+            "type": 1,
+            "ratingHash": "7187ab67ca81e9edd158e04b72572f3045adf148"
+        },
+        {
+            "mealGuid": "2e1a774d-21c4-4602-b0f2-8281200ad224",
+            "name": "Possuh\u00f6yst\u00f6 L G MU N *, Peruna, Uunijuurekset, Salaatti",
+            "type": 0,
+            "ratingHash": "fd7b82dbe20019b73ccd37c952ccdf9831e4d65d"
+        },
+        {
+            "mealGuid": "b2ec92ad-595c-462d-8cb0-66bfa78dfdf5",
+            "name": "Porkkananappi L M G MU S N VEG, Pinaatti-jogurttikastike L G MU, Peruna, Salaatti",
+            "type": 1,
+            "ratingHash": "e1da564376b7b60731237cb0cf8d23cc2b5c225a"
+        },
+        {
+            "mealGuid": "35f27f9f-e720-4bfa-961c-eb0c3434deb7",
+            "name": "Kalamurekepihvi L M G, Pinaatti-jogurttikastike L G MU, Peruna, Salaatti",
+            "type": 1,
+            "ratingHash": "a3689de0876af8aa3ba873bac91ddbf7b0e19826"
+        },
+        {
+            "mealGuid": "2e3e50d5-8766-4709-808e-6a8459ab7716",
+            "name": "Ohrasuurimopuuro L MU, Mehukeitto L M G MU VEG, Pehme\u00e4 leip\u00e4, Juusto, Reilun kaupan banaani",
+            "type": 0,
+            "ratingHash": "56b5517b1d0d1edcc503ac989c5e060c2898c255"
+        },
+        {
+            "mealGuid": "c3ee20a8-eedc-4c5c-a22c-e55339cefc54",
+            "name": "Linssi-lehtikaalikeitto L M MU VEG, Kikhernehummus L M G MU VEG *, Pehme\u00e4 leip\u00e4, Reilun kaupan banaani",
+            "type": 0,
+            "ratingHash": "9162bceaede456298c8f40590b417eec952fd6da"
+        },
+        {
+            "mealGuid": "60cec3c9-0e4c-42cd-9372-b7a679867f23",
+            "name": "Tofu-kasvisgrilleri L M G MU VEG, Tomaattikastike L G MU, Peruna, Salaatti",
+            "type": 1,
+            "ratingHash": "ca658dd28689717abe0652fc3d9b3cd304054a9c"
+        },
+        {
+            "mealGuid": "b79ddf8e-166b-4b8b-84ee-3d76834d01ca",
+            "name": "Uunimakkara L M G MU N, Tomaattikastike L G MU, Peruna, Salaatti",
+            "type": 1,
+            "ratingHash": "99e1e54e3ef442544e0a738f7a68c5ee2775c19a"
+        },
+        {
+            "mealGuid": "f866247d-a9d2-48ca-8792-974d3b66be91",
+            "name": "Kasvislounas talon tapaan",
+            "type": 1,
+            "ratingHash": "ed9c9866015bc8da978a11be0139d1c110267aa7"
+        },
+        {
+            "mealGuid": "97799571-b100-42d2-a20f-96eb4176bd3a",
+            "name": "Lounas talon tapaan",
+            "type": 1,
+            "ratingHash": "aad28240051ef0e56ca7da4ccae89dff8df43266"
+        },
+        {
+            "mealGuid": "3e5cb18a-0588-42e0-8085-7d1b0323112e",
+            "name": "Soija-tomaattikastike L M G MU VEG, Peruna, Uunijuurekset, Salaatti",
+            "type": 1,
+            "ratingHash": "2c02d2008e729a28a13954f41893df457ef0a247"
+        },
+        {
+            "mealGuid": "2e1a774d-21c4-4602-b0f2-8281200ad224",
+            "name": "Possuh\u00f6yst\u00f6 L G MU N *, Peruna, Uunijuurekset, Salaatti",
+            "type": 0,
+            "ratingHash": "c1f457838b185480fe067f2edd7a1013d0760501"
+        },
+        {
+            "mealGuid": "b2ec92ad-595c-462d-8cb0-66bfa78dfdf5",
+            "name": "Porkkananappi L M G MU S N VEG, Pinaatti-jogurttikastike L G MU, Peruna, Salaatti",
+            "type": 1,
+            "ratingHash": "904664d4264374d91309a22908258fe503dd1030"
+        },
+        {
+            "mealGuid": "35f27f9f-e720-4bfa-961c-eb0c3434deb7",
+            "name": "Kalamurekepihvi L M G, Pinaatti-jogurttikastike L G MU, Peruna, Salaatti",
+            "type": 1,
+            "ratingHash": "44a0db52ac10c36e8bb0a8993eb3b5991507f6ef"
+        },
+        {
+            "mealGuid": "2e3e50d5-8766-4709-808e-6a8459ab7716",
+            "name": "Ohrasuurimopuuro L MU, Mehukeitto L M G MU VEG, Pehme\u00e4 leip\u00e4, Juusto, Reilun kaupan banaani",
+            "type": 0,
+            "ratingHash": "be1cd0ddf04b1d50756824a5740f157bdfc7f811"
+        },
+        {
+            "mealGuid": "c3ee20a8-eedc-4c5c-a22c-e55339cefc54",
+            "name": "Linssi-lehtikaalikeitto L M MU VEG, Kikhernehummus L M G MU VEG *, Pehme\u00e4 leip\u00e4, Reilun kaupan banaani",
+            "type": 0,
+            "ratingHash": "f79adcac08383ad01c787cfeafb9461ec3ec5c20"
+        },
+        {
+            "mealGuid": "60cec3c9-0e4c-42cd-9372-b7a679867f23",
+            "name": "Tofu-kasvisgrilleri L M G MU VEG, Tomaattikastike L G MU, Peruna, Salaatti",
+            "type": 1,
+            "ratingHash": "bd437e6a28bb5e428f04b28813763e08a6e1745a"
+        },
+        {
+            "mealGuid": "b79ddf8e-166b-4b8b-84ee-3d76834d01ca",
+            "name": "Uunimakkara L M G MU N, Tomaattikastike L G MU, Peruna, Salaatti",
+            "type": 1,
+            "ratingHash": "65aa8ab6288d0c84aec31a0ad4b122a0d53b16cb"
+        },
+        {
+            "mealGuid": "b79ddf8e-166b-4b8b-84ee-3d76834d01ca",
+            "name": "Uunimakkara L M G MU N, Tomaattikastike L G MU, Peruna, Salaatti",
+            "type": 1,
+            "ratingHash": "c114531e8eb7f3b3a26e8a03147c2322b96b0426"
+        }
+    ],
+    "skipped_urls": []
+}
